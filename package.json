@@ -1,0 +1,33 @@
+{
+  "name": "winter-pearl-theme",
+  "displayName": "Winter Pearl",
+  "description": "Winter Pearl Theme VS Code.",
+  "version": "0.0.1",
+  "publisher": "suryashanm",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "winter pearl",
+    "Winter",
+    "vscode",
+    "theme",
+    "dark"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suryashanm/winter-pearl.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Winter Pearl Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/winter-pearl-color-theme.json"
+      }
+    ]
+  }
+}
