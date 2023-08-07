@@ -4,6 +4,11 @@
 
 - Initial release  
 
-### Version 1.0.1  
+### Version 0.0.2  
 
 - color modification
+
+<!-- 
+terminal and debugging color modified 
+logo added
+-->
