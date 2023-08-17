@@ -6,9 +6,13 @@
 
 ### Version 0.0.2  
 
-- color modification
+- terminal color modified
 
+### Version 0.0.3
+
+- debugging color modified
 <!-- 
-terminal and debugging color modified 
-logo added
+TODO:
+logo
+Selection and highlight color
 -->

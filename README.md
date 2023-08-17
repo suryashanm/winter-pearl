@@ -21,24 +21,18 @@ click here to go to the [changelog](https://marketplace.visualstudio.com/items/s
 
 
 ## Color reference  
-- UI Color  
-    - ![#06090f](https://via.placeholder.com/10/06090f.png?text=+) `#06090f`  
-    - ![#0a0e15](https://via.placeholder.com/10/0a0e15.png?text=+) `#0a0e15`  
-    - ![#11151b](https://via.placeholder.com/10/11151b.png?text=+) `#11151b`  
-
-<br>  
-
-- Syntax Color 
-    - ![#34febb](https://via.placeholder.com/10/34febb.png?text=+) `#34febb`  
-    - ![#32ae85](https://via.placeholder.com/10/32ae85.png?text=+) `#32ae85`  
-    - ![#de2bff](https://via.placeholder.com/10/de2bff.png?text=+) `#de2bff`  
-    - ![#fd3641](https://via.placeholder.com/10/fd3641.png?text=+) `#fd3641`  
-    - ![#fb5474](https://via.placeholder.com/10/fb5474.png?text=+) `#fb5474`  
-    - ![#d8e000](https://via.placeholder.com/10/d8e000.png?text=+) `#d8e000`  
-    - ![#336fff](https://via.placeholder.com/10/336fff.png?text=+) `#336fff`  
-    - ![#3bff67](https://via.placeholder.com/10/3bff67.png?text=+) `#3bff67`  
-    - ![#e1e1e1](https://via.placeholder.com/10/e1e1e1.png?text=+) `#e1e1e1`  
-    - ![#444c55](https://via.placeholder.com/10/444c55.png?text=+) `#444c55`  
+| UI Color | Syntax Color |
+| :------: | :----------: | 
+| ![#06090f](https://via.placeholder.com/10/06090f.png?text=+) `#06090f` | ![#34febb](https://via.placeholder.com/10/34febb.png?text=+) `#34febb` |
+| ![#0a0e15](https://via.placeholder.com/10/0a0e15.png?text=+) `#0a0e15` | ![#32ae85](https://via.placeholder.com/10/32ae85.png?text=+) `#32ae85` |
+| ![#11151b](https://via.placeholder.com/10/11151b.png?text=+) `#11151b` | ![#de2bff](https://via.placeholder.com/10/de2bff.png?text=+) `#de2bff` |
+| | ![#fd3641](https://via.placeholder.com/10/fd3641.png?text=+) `#fd3641` | 
+| | ![#fb5474](https://via.placeholder.com/10/fb5474.png?text=+) `#fb5474` | 
+| | ![#d8e000](https://via.placeholder.com/10/d8e000.png?text=+) `#d8e000` | 
+| | ![#336fff](https://via.placeholder.com/10/336fff.png?text=+) `#336fff` | 
+| | ![#3bff67](https://via.placeholder.com/10/3bff67.png?text=+) `#3bff67` | 
+| | ![#e1e1e1](https://via.placeholder.com/10/e1e1e1.png?text=+) `#e1e1e1` | 
+| | ![#444c55](https://via.placeholder.com/10/444c55.png?text=+) `#444c55` |  
 
 <br>  
 
