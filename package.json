@@ -2,7 +2,7 @@
   "name": "winter-pearl-theme",
   "displayName": "Winter Pearl Theme",
   "description": "Winter Pearl Theme for VS Code.",
-  "icon": "/images/logo.jpg",
+  "icon": "logo.jpg",
   "version": "0.1.1",
   "publisher": "suryashanm",
   "engines": {

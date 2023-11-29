@@ -9,5 +9,5 @@
 ### Version 0.0.3  
 - Modified debugging color
 
-### Version 0.0.4  
+### Version 0.1.1  
 - Icon
