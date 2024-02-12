@@ -1825,14 +1825,14 @@
 		"name": "comment",
 		"scope": "comment.line.double-slash,comment.block.documentation",
 		"settings": {
-		  "fontStyle": "bold"
+		  "fontStyle": ""
 		}
 	  },
 	  {
 		"name": "Python Keyword Control",
 		"scope": "keyword.control.import.python,keyword.control.flow.python",
 		"settings": {
-		  "fontStyle": "italic"
+		  "fontStyle": ""
 		}
 	  },
 	  {
@@ -1972,7 +1972,7 @@
 	  "diffEditor.removedTextBorder": "#00000000",
 	  "diffEditor.border": "#ffffff50",
 	  "panel.background": "#06090f",
-	  "panel.border": "#00000000",
+	  "panel.border": "#ffffff15",
 	  "panelTitle.activeBorder": "#34febb",
 	  "panelTitle.activeForeground": "#ffffff",
 	  "panelTitle.inactiveForeground": "#ffffff66",
